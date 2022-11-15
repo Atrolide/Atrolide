@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 My name is Grzegorz and I'm a Computer Science student<br>👀 Looking for my first commercial experience !<br>🌱 I’m currently learning Java![java](https://user-images.githubusercontent.com/115810564/201940246-478c46ec-5053-4620-a270-853879ea5612.png)<br>
+👋 My name is Grzegorz and I'm a Computer Science student<br>👀 Looking for my first commercial experience !<br>🌱 I’m currently learning Java<br>
 
 
 ## 🌐 Socials:
