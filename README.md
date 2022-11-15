@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 My name is Grzegorz and I'm a Computer Science student<br>👀 Looking for my first commercial experience !<br>🌱 I’m currently learning Java<br>
+👋 My name is Grzegorz and I'm a Computer Science student<br>👀 Looking for my first commercial experience !<br>🌱 I’m currently learning Java![java](https://user-images.githubusercontent.com/115810564/201940246-478c46ec-5053-4620-a270-853879ea5612.png)<br>
 
 
 ## 🌐 Socials:
@@ -20,10 +20,3 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
-
-
-
-!(https://user-images.githubusercontent.com/115810564/201939326-74f6c2f7-cb0d-4d79-8c06-57f61a5a318d.png)
-
-
