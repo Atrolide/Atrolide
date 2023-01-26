@@ -2,8 +2,12 @@
 👋 My name is Grzegorz and I'm a Computer Science student<br>👀 Looking for my first commercial experience !<br>🌱 I’m currently learning Java and SQL<br>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bentleyemdobetlejem) 
+## 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atrolide&theme=github_dark&show_icons=true&line_height=27)](https://github.com/Atrolide)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atrolide&theme=github_dark)](https://github.com/Atrolide)
+
+
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
