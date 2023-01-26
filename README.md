@@ -1,5 +1,14 @@
 # :speech_balloon: About Me:
-:wave: My name is Grzegorz and I'm a Computer Science student<br>👀 Looking for my first commercial experience !<br>:books: I’m currently learning Java and SQL<br>
+:wave: My name is Grzegorz and I'm an aspiring Java Developer<br>
+
+👀 Looking for my first commercial experience !<br>
+
+:books: I’m currently learning:<br>
+  * Mobile App development 
+  * Functional Java 
+  * Cryptography
+  * Spring Framework 
+  * Managing SQL databases
 
 
 ## 
