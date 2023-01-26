@@ -5,9 +5,9 @@
 
 
 ## 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atrolide&theme=github_dark&show_icons=true&line_height=27)](https://github.com/Atrolide)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atrolide&theme=codeSTACKr&show_icons=true&line_height=27)](https://github.com/Atrolide)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atrolide&theme=github_dark)](https://github.com/Atrolide)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atrolide&theme=codeSTACKr)](https://github.com/Atrolide)
 
 
 
