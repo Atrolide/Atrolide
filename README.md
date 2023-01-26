@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="style.css">
+
 # 💫 About Me:
 👋 My name is Grzegorz and I'm a Computer Science student<br>👀 Looking for my first commercial experience !<br>🌱 I’m currently learning Java and SQL<br>
 
