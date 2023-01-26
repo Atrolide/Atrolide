@@ -7,6 +7,7 @@
   * Mobile App development 
   * Functional Java 
   * Cryptography
+  * Process automation
   * Spring Framework 
   * Managing SQL databases
 
