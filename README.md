@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 My name is Grzegorz and I'm a Computer Science student<br>👀 Looking for my first commercial experience !<br>🌱 I’m currently learning Java and SQL<br>
+# :speech_balloon: About Me:
+:wave: My name is Grzegorz and I'm a Computer Science student<br>👀 Looking for my first commercial experience !<br>:books: I’m currently learning Java and SQL<br>
 
 
 ## 
