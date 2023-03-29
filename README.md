@@ -4,12 +4,10 @@
 👀 Looking for my first commercial experience !<br>
 
 :books: I’m currently learning:<br>
-  * Mobile App development 
+  * AI and ML concepts in Python
   * Functional Java 
   * Cryptography
   * Process automation
-  * Spring Framework 
-  * Managing SQL databases
 
 
 ## 
