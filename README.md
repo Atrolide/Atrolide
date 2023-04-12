@@ -20,10 +20,12 @@
 # 💻 Tech Stack:
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="60" height="60"/>
-  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="60" height="60"/>  <br>
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="60" height="60"/>
+  <img src="https://maven.apache.org/images/maven-logo-white-on-black.png" alt="Maven Logo" width="100" height="60"/> <br>
  
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="60" height="60"/>
-  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="60" height="60"/> <br>
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="60" height="60"/> 
+  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" alt="Matplotlib Logo" width="60" height="60"/> <br>
  
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="60" height="60"/>
   <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="60" height="60"/>
@@ -37,6 +39,9 @@
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="60" height="60"/> <br>
  
   <img src="https://img.icons8.com/color/48/000000/swift.png" alt="Swift" width="60" height="60"/>
+ 
+ 
+ 
   
 </p>
 
