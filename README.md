@@ -1,5 +1,5 @@
 # :speech_balloon: About Me:
-:wave: My name is Grzegorz and I'm an aspiring Java Developer<br>
+:wave: My name is Grzegorz and I'm an aspiring Python and Java Developer<br>
 
 👀 Looking for my first commercial experience !<br>
 
@@ -18,17 +18,29 @@
 
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="60" height="60"/>  <br>
+ 
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="60" height="60"/> <br>
+ 
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="60" height="60"/>
+  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="60" height="60"/> <br>
+  
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="60" height="60"/> <br>
+ 
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="60" height="60"/> <br>
+ 
+  <img src="https://img.icons8.com/color/48/000000/swift.png" alt="Swift" width="60" height="60"/>
+  
+</p>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
