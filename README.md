@@ -1,5 +1,8 @@
 # :speech_balloon: About Me:
-:wave: My name is Grzegorz and I'm an aspiring Python and Java Developer<br>
+:wave: My name is Grzegorz and I'm an aspiring 
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="30" height="30"/>Python 
+and 
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>Java Developer<br>
 
 👀 Looking for my first commercial experience !<br>
 
@@ -10,15 +13,14 @@
   * Process automation
 
 
-## 
+# :chart_with_upwards_trend: GitHub Stats
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atrolide&theme=codeSTACKr&show_icons=true&line_height=27)](https://github.com/Atrolide)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atrolide&theme=codeSTACKr)](https://github.com/Atrolide)
 
-
-
 # 💻 Tech Stack:
-<p align="center">
+<p align="left">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="60" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="60" height="60"/>
   <img src="https://maven.apache.org/images/maven-logo-white-on-black.png" alt="Maven Logo" width="100" height="60"/> <br>
@@ -38,14 +40,5 @@
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="60" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="60" height="60"/> <br>
  
-  <img src="https://img.icons8.com/color/48/000000/swift.png" alt="Swift" width="60" height="60"/>
- 
- 
- 
-  
+  <img src="https://img.icons8.com/color/48/000000/swift.png" alt="Swift" width="60" height="60"/> 
 </p>
-
-
-
-
-
