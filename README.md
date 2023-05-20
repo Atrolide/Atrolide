@@ -9,6 +9,7 @@ and
 :books: I’m currently learning:<br>
   * AI and ML concepts in Python
   * Functional Java 
+  * ML in Scala
   * Cryptography
   * Process automation
 
