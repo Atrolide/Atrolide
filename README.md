@@ -7,9 +7,8 @@ and
 👀 Looking for my first commercial experience !<br>
 
 :books: I’m currently learning:<br>
-  * AI and ML concepts in Python
-  * Functional Java 
-  * ML in Scala
+  * AI and ML concepts
+  * Functional programming
   * Cryptography
   * Process automation
 
