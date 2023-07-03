@@ -33,7 +33,7 @@ and
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="60" height="60"/>&nbsp;&nbsp;<img src="https://img.icons8.com/ios-filled/48/FFFFFF/flask.png" alt="Flask" width="60" height="60"/>
 
 ### Frontend:
-<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="60" height="60"/><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="60" height="60"/><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="60" height="60"/>
+<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="60" height="60"/><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="60" height="60"/><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="60" height="60"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/2560px-AJAX_logo_by_gengns.svg.png" alt="AJAX" width="100" height="60"/>
 
 ## Databases:
 <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="60" height="60"/>
