@@ -28,9 +28,9 @@ and
 
 ## Web Development:
 ### Backend:
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="60" height="60"/><img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="60" height="60"/>&nbsp;<img src="https://maven.apache.org/images/maven-logo-white-on-black.png" alt="Maven Logo" width="100" height="60"/> <br>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="60" height="60"/><img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="60" height="60"/>&nbsp;&nbsp;<img src="https://maven.apache.org/images/maven-logo-white-on-black.png" alt="Maven Logo" width="100" height="60"/> <br>
 
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="60" height="60"/><img src="https://img.icons8.com/ios-filled/48/FFFFFF/flask.png" alt="Flask" width="60" height="60"/>
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="60" height="60"/>&nbsp;&nbsp;<img src="https://img.icons8.com/ios-filled/48/FFFFFF/flask.png" alt="Flask" width="60" height="60"/>
 
 ### Frontend:
 <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="60" height="60"/><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="60" height="60"/><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="60" height="60"/>
@@ -40,9 +40,6 @@ and
 
 ## Mobile Applications:
 <img src="https://img.icons8.com/color/48/000000/swift.png" alt="Swift" width="60" height="60"/>
-
-## Machine Learning and Data Science:
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="60" height="60"/><img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="60" height="60"/><img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" alt="Matplotlib Logo" width="60" height="60"/>
 
 ## DevOps and Version Control:
 <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="60" height="60"/><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="60" height="60"/>
