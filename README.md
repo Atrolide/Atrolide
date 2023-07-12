@@ -8,17 +8,17 @@ and
 
 :books: I’m currently learning:<br>
   * AI and ML concepts
-  * Functional programming
-  * Cryptography
+  * Backend Development
+  * Cloud Computing
   * Process automation
 
 
 # :chart_with_upwards_trend: GitHub Stats
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Atrolide&theme=nord&show_icons=true&line_height=20)](https://github.com/Atrolide)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atrolide&theme=nord&layout=compact&line_height=10)](https://github.com/Atrolide/github-readme-language-stats)
+<br>
 
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Atrolide&theme=nord&show_icons=true&line_height=27)](https://github.com/Atrolide)
-<br>
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Atrolide&theme=nord)](https://github.com/Atrolide)
-<br>
+# :bar_chart: LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Atrolide?theme=nord&font=Share)
 
 
