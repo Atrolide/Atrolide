@@ -26,6 +26,9 @@ and
 
 # 💻 Tech Stack:
 
+## Cloud Services:
+<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="60" height="60"/> &nbsp;&nbsp;&nbsp;<img src="https://brandslogos.com/wp-content/uploads/images/large/aws-cognito-logo.png" alt="AWS Cognito" width="60" height="60"/>
+
 ## Web Development:
 ### Backend:
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="60" height="60"/><img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="60" height="60"/>&nbsp;&nbsp;<img src="https://maven.apache.org/images/maven-logo-white-on-black.png" alt="Maven Logo" width="100" height="60"/> <br>
@@ -47,5 +50,4 @@ and
 ## General Purpose Programming:
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="60" height="60"/><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="60" height="60"/><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="60" height="60"/><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="60" height="60"/>
 
-## Cloud Services:
-<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="60" height="60"/> &nbsp;&nbsp;&nbsp;<img src="https://brandslogos.com/wp-content/uploads/images/large/aws-cognito-logo.png" alt="AWS Cognito" width="60" height="60"/>
+
