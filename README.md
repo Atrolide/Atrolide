@@ -1,4 +1,4 @@
-# 💬: About Me:
+# 💬 About Me:
 :wave: My name is Grzegorz and I'm an aspiring 
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="30" height="30"/>Python 
 and 
@@ -6,19 +6,19 @@ and
 
 👀 Looking for my first commercial experience !<br>
 
-📚: I’m currently learning:<br>
+📚 I’m currently learning:<br>
   * AI and ML concepts
   * Backend Development
   * Cloud Computing
   * Process automation
 
 
-# 📈: GitHub Stats
+# 📈 GitHub Stats
 [![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Atrolide&theme=nord&show_icons=true&line_height=20)](https://github.com/Atrolide)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atrolide&theme=nord&layout=compact&line_height=10)](https://github.com/Atrolide/github-readme-language-stats)
 <br>
 
-# 📊: LeetCode Stats
+# 📊 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Atrolide?theme=nord&font=Share)
 
 
