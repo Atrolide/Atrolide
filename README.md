@@ -14,7 +14,7 @@
 ![Git](https://img.icons8.com/color/48/000000/git.png) 
 ![Jira](https://img.icons8.com/color/48/000000/jira.png) 
 ![Confluence](https://img.icons8.com/color/48/000000/confluence.png) 
-![Bitbucket]<img src="https://github.com/Atrolide/Atrolide/raw/main/assets/115810564/91f1ee30-4f31-4c03-8a3c-ae0170392ddd" width="30" height="30"> <br>
+![Bitbucket](https://img.icons8.com/color/48/000000/bitbucket.png) <br>
 ![Swift](https://img.icons8.com/color/48/000000/swift.png) <br>
 
 ## Cloud Platforms
